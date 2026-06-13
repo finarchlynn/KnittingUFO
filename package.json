@@ -1,0 +1,20 @@
+{
+  "name": "knit-tracker",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "뜨개 프로젝트 기록 앱 — 도안/바늘/실 정보, 사진, PDF 저장, CSV 내보내기",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.11"
+  }
+}
